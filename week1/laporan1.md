@@ -15,4 +15,4 @@ http://gaia.cs.umass.edu/wireshark-labs/INTRO-wireshark-file1.html lalu buka hal
 
 ## lampiran
 Hasil Percobaan:
-![Hasil Percobaan](../assets/image/week1%20(1).png)
+![Hasil Percobaan](../assets/image/week1(1).png)
