@@ -14,4 +14,4 @@ Agar mahasiswa dapat mempelajari dan menganalisis cara kerja protokol HTTP denga
 
 ## lampiran
 Hasil Percobaan:
-![Hasil Percobaan](../assets/image/week3 (1).png)
+![Hasil Percobaan](../assets/image/week3_1.png)
