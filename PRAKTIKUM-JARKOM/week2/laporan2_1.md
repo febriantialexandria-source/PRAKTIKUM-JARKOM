@@ -1,4 +1,4 @@
-# Laporan Praktikum Jarkom 2_1 Basic HTTP GET/response interaction
+# Laporan Praktikum Jarkom 2 (2_1 Basic HTTP GET/response interaction)
 
 ## Tujuan Praktikum
 Agar mahasiswa dapat mempelajari dan menganalisis cara kerja protokol HTTP dengan menggunakan Wireshark.
