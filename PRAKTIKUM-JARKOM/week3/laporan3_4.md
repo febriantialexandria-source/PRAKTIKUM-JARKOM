@@ -1,4 +1,4 @@
-# Laporan Praktikum Jarkom 3_4 HTTP CONDITIONAL GET/response interaction
+# Laporan Praktikum Jarkom 3_4 HTTP CHTML Documents dengan Embedded Objects
 
 ## Tujuan Praktikum
 Memahami cara kerja protokol HTTP menggunakan Wireshark.
