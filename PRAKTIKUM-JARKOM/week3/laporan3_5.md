@@ -21,4 +21,5 @@ Memahami cara kerja protokol HTTP menggunakan Wireshark.
 
 ## Lampiran
 Hasil Percobaan:
-![Hasil Percobaan](../assets/image/week3_5.png)
+![Hasil Percobaan](../assets/image/week3_5(1).png)
+![Hasil Percobaan](../assets/image/week3_5(2).png)
