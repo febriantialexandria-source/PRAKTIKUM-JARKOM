@@ -1,4 +1,4 @@
-# Laporan Praktikum Jarkom 3_3 HTTP CONDITIONAL GET/response interaction
+# Laporan Praktikum Jarkom 3_3 Retrieving Long Documents
 
 ## Tujuan Praktikum
 Memahami cara kerja protokol HTTP menggunakan Wireshark.
