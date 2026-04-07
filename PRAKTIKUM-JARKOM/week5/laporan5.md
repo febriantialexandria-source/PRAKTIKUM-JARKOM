@@ -29,3 +29,4 @@
 
 7. Pada paket pertama, Source Port = 53869 dan Destination Port = 443, sedangkan pada paket kedua, Source Port = 443 dan Destination Port = 53869, sehingga terlihat bahwa source dan destination port pada kedua paket tersebut saling bertukar.
 ![UDP Screenshot](../assets/image/w5_7.png)
+![UDP Screenshot](../assets/image/w5_6.png)
