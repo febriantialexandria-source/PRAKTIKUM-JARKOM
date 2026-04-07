@@ -1,7 +1,7 @@
 # Laporan Praktikum Jarkom Modul 5 UDP
 
 ## Tujuan Praktikum
- mahasiswa dapat mengetahui cara kerja protokol UDP menggunakan Wireshark
+ Mahasiswa dapat mengetahui cara kerja protokol UDP menggunakan Wireshark
 
 ## 5.2
 ## Jawab
