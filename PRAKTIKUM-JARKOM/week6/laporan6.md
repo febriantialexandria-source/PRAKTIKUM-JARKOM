@@ -4,7 +4,8 @@
  Mahasiswa dapat mengetahui cara kerja protokol TCP menggunakan Wireshark
 
 ## 6.2 Menangkap Tansfer TCP dalam Jumlah Besar dari Komputer Pribadi ke Remote Server
-## Langkah-langkah
+Langkah-langkah
+
 1. Buka URL http://gaia.cs.umass.edu/wireshark-labs/alice.txt 
 ![Gambar 1 - Halaman Alice](../assets/image/w6_1.png)
 
@@ -24,7 +25,8 @@
 ![Gambar 6 - Halaman Alice](../assets/image/w6_6.png)
 
 ## 6.3 Tampilan Awal pada Captured Trace
-## Langkah-langkah
+Langkah-langkah
+
 1. Unduh file trace (zip) dari http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip, lalu ekstrak.
 2. Cari file tcp-ethereal-trace-1, lalu ubah namanya jadi tcp-ethereal-trace-1.pcap supaya bisa dibuka di Wireshark.
 ![Gambar 7 - Halaman Alice](../assets/image/w6_7.png)
