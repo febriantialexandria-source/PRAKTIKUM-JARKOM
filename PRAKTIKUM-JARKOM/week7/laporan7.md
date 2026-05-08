@@ -30,6 +30,7 @@ Output
 11. Di sisi client, socket dibuat menggunakan socket(AF_INET, SOCK_STREAM) lalu client terhubung ke server menggunakan connect().
 12. Setelah itu client mengambil input dari pengguna menggunakan input() lalu mengirimkannya ke server menggunakan send() setelah diubah ke bentuk byte.
 13. Terakhir, client menerima balasan dari server menggunakan recv(1024), lalu data diubah kembali menjadi string dengan .decode() dan ditampilkan ke layar.
+
 ![Gambar 4](../assets/image/w7_4.png)
 ![Gambar 5](../assets/image/w7_5.png)
 Output
