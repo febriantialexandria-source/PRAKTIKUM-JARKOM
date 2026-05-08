@@ -13,6 +13,7 @@
 10. Terakhir, client menerima balasan dari server menggunakan recvfrom() kemudian menampilkannya ke layar dengan .decode().
 ![Gambar 1](../assets/image/w7_1.png)
 ![Gambar 2](../assets/image/w7_2.png)
+
 Output
 ![Gambar 3](../assets/image/w7_3.png)
 
