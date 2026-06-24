@@ -9,7 +9,6 @@ Langkah-langkah
 ![Gambar 1](../assets/image/w13_1.png)
 2. HTTP after open gaia.cs.umass.edu/wireshark-labs/HTTP-ethereal-lab-file3.html
 ![Gambar 2](../assets/image/w13_2.png)
-
 ![Gambar 3](../assets/image/w13_3.png)
 
 ## Caching ARP
