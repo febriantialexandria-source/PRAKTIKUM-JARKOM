@@ -1,6 +1,7 @@
 # LAPORAN PRAKTIKUM JARKOM MODUL 10
 
-## Tujuan : Mahasiswa dapat menginvestigasi cara kerja protokol IP menggunakan Wireshark
+## Tujuan
+Mahasiswa dapat menginvestigasi cara kerja protokol IP menggunakan Wireshark
 
 ## Menangkap paket dari eksekusi traceroute >tracert gaia.cs.umass.edu
 ![Gambar 1](../assets/image/w10_1.png)
