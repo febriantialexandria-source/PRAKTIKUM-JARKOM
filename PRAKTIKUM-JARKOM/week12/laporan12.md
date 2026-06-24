@@ -1,7 +1,7 @@
 # LAPORAN PRAKTIKUM JARKOM MODUL 12
 
 ## Tujuan
-Mahasiswa dapat menginvestigasi cara kerja protokol ICMP menggunakan Wireshark
+Mahasiswa dapat menginvestigasi cara kerja protokol ICM menggunakan Wireshark
 
 ## ICMP dan PING
 ## Langkah-langkah
